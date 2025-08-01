@@ -1,8 +1,13 @@
 # pruebas_accesibilidad/axe-core
-Herramientas para realizar pruebas de accesibilidad a paginas estaticas
+# Herramienta para realizar pruebas de accesibilidad a paginas estaticas
 
-npm init -y
-npm install selenium-webdriver @axe-core/webdriverjs chromedriver
-npm install json2csv
+## ⚙️ Paso 1: Clona el proyecto e instala JavaScript modules
+- cd axe-core
+- npm init -y
 
-node accesibilidad.test.js
+## ⚙️ Paso 2: Instalar dependencias
+- npm install selenium-webdriver @axe-core/webdriverjs chromedriver
+- npm install json2csv
+
+## 🔨 Paso 3: Ejecutar tu prueba
+- node accesibilidad.test.js
