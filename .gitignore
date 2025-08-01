@@ -1,0 +1,7 @@
+/axe-core/node_modules/
+*.csv
+*.zip
+*.txt
+*.html
+*.png
+*.json
